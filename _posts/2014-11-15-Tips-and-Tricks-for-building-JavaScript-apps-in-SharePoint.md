@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Blogging Like a Hacker
+published: true
 ---
 
-test123
+Hello!
+
+What do you think?
